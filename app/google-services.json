@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "784700085573",
+    "project_id": "myapplication-1f017",
+    "storage_bucket": "myapplication-1f017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784700085573:android:5fa641b1dd27a0ba989a2c",
+        "android_client_info": {
+          "package_name": "burujiyaseer.example.authenticationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784700085573-arh796kd003s68h2b9qqmvo38buel2ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "burujiyaseer.example.authenticationapp",
+            "certificate_hash": "8ef2adb85d905aff1ac017a5ba6e7d18582f611e"
+          }
+        },
+        {
+          "client_id": "784700085573-28s69cqkrq20oj2rk7pt5htfiru89pm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdMX2nVBGZOj0IZ1kf9FuXXM24CwQnxtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784700085573-28s69cqkrq20oj2rk7pt5htfiru89pm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
